@@ -1,5 +1,5 @@
 # Chinese-translation-for-Handbook-of-High-Frequency-Trading-and-Modeling-in-Finance-
-![看起来这本书还是蛮正经的对吧？]（https://github.com/bluemapleman/Chinese-translation-for-Handbook-of-High-Frequency-Trading-and-Modeling-in-Finance-/blob/master/cover.jpg）
+![]（https://github.com/bluemapleman/Chinese-translation-for-Handbook-of-High-Frequency-Trading-and-Modeling-in-Finance-/blob/master/cover.jpg）
 ## Introduction
 ###Chapter 1:Trend and Trading
 ###Chapter 2: Gaussian Inequalities and Tranche Sensitivities 
